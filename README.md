@@ -81,5 +81,5 @@ python eval.py \
 
 | Model Version | CLIP Backbone | Spatial Features | Acc@0.5 | Acc@0.25 | Mean IoU |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **VISTA 1.0** (Baseline) | ViT-B/32 | 5-D | 84.27% | 87.07% | 0.81 |
+| **VISTA 1.0** (Ours) | ViT-B/32 | 11-D | **86.15%** | **88.92%** | **0.82** |
 | **VISTA 2.0** (Target) | ViT-L/14 | 11-D | **88.65%** | **91.20%** | **0.85** |
